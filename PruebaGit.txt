@@ -1,1 +1,4 @@
-Texto de prueba para Git
+Texto de prueba para Git v2
+
+Ahora agregamos una segunda linea para ver los cambios
+

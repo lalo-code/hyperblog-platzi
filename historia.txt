@@ -1,0 +1,5 @@
+Hola esta es una practica de Git y Github
+
+Quiero aprender sobre esta herramienta para futuros proyectos
+
+Actualmente me dedico a la Infraestructura

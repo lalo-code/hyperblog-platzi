@@ -3,3 +3,5 @@ Hola esta es una practica de Git y Github en Platzi
 Quiero aprender sobre esta herramienta, para mejores trabajos
 
 Actualmente me dedico a la Infraestructura.
+
+Deseo poder especializarme en otras areas de IT.

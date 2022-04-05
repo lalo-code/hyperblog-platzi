@@ -1,5 +1,5 @@
-Hola esta es una practica de Git y Github
+Hola esta es una practica de Git y Github en Platzi
 
-Quiero aprender sobre esta herramienta para futuros proyectos
+Quiero aprender sobre esta herramienta, para mejores trabajos
 
-Actualmente me dedico a la Infraestructura
+Actualmente me dedico a la Infraestructura.
